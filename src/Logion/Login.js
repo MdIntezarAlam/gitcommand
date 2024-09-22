@@ -27,6 +27,10 @@ const Login = () => {
                 9. git push origin main  ----> that's it
                 <br />
                 <br />
+                9. download github cli for windeo than below opearion
+                9. gh repo edit "mdintezaralam/next-snake-game" --description "This is " ---->  to modify or add the description in github repo
+                <br />
+                <br />
                 <p>Netlify Error</p>
                 step 1:
                 create _redirects file in public and add the following line
